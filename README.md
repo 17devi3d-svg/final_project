@@ -1,7 +1,7 @@
 ## Ruang Bumi
 
 ## Deskripsi
-Jelaskan secara singkat tujuan dan fungsi proyek.
+Memberikan tips merawat bumi serta memberikan simulasi jika tipsnya sudah diterapkan
 
 ## Tujuan Pengujian
 Pengujian dilakukan untuk memastikan bahwa proyek:
@@ -21,12 +21,9 @@ Pengujian dilakukan untuk memastikan bahwa proyek:
 Seluruh fitur utama dapat berjalan sesuai spesifikasi.
 
 ### Checklist
-- [ ] Verifikasi pendaftaran pengguna berhasil
-- [ ] Verifikasi login pengguna berhasil
-- [ ] Verifikasi data dapat disimpan
-- [ ] Verifikasi data dapat diperbarui
-- [ ] Verifikasi data dapat dihapus
-- [ ] Verifikasi pesan kesalahan muncul saat input tidak valid
+- [x] Verifikasi simulasi berhasil dijalankan
+- [ ] Verifikasi responsif 
+
 
 ### Prioritas
 **Tinggi**
@@ -39,11 +36,10 @@ Seluruh fitur utama dapat berjalan sesuai spesifikasi.
 Tampilan mudah dipahami dan seluruh elemen dapat digunakan dengan baik.
 
 ### Checklist
-- [ ] Seluruh tombol dapat diklik
-- [ ] Form input dapat menerima data dengan benar
+- [x] Seluruh tombol dapat diklik
 - [ ] Navigasi antar halaman berjalan lancar
 - [ ] Tampilan responsif pada berbagai ukuran layar
-- [ ] Tidak ada elemen yang tumpang tindih
+
 
 ### Prioritas
 **Sedang**
@@ -56,9 +52,8 @@ Tampilan mudah dipahami dan seluruh elemen dapat digunakan dengan baik.
 Aplikasi dapat merespons dengan cepat dan stabil.
 
 ### Checklist
-- [ ] Waktu pemuatan halaman sesuai target
+- [x] Waktu pemuatan halaman sesuai target
 - [ ] Penggunaan memori tidak berlebihan
-- [ ] Sistem tetap stabil saat banyak pengguna
 - [ ] Tidak terjadi crash saat penggunaan normal
 
 ### Prioritas
